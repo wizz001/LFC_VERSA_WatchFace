@@ -1,0 +1,12 @@
+<svg>
+  <image href="lfc.png" />
+  <text id="timeLabel" />
+  <text id="heartrateLabel" />
+  <text id="stepsLabel" />
+  <text id="caloriesLabel"/>
+  <text id="batteryLabel" />
+  <text id="myMonth" />
+  <text id="myDay" />
+  <text id="date" text-length="20" class="date" />
+  <text id="YNWA"> You'll Never Walk Alone </text>
+       </svg>

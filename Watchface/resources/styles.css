@@ -1,0 +1,71 @@
+.background {
+  viewport-fill: red;
+}
+
+#timeLabel {
+  font-size: 70;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 20%+40;
+  fill: white;}
+
+#heartrateLabel {
+  font-size: 18;
+  font-family: System-Bold;
+  text-length: 3;
+  text-anchor: start;
+  x: 12%;
+  y: 82%;
+  fill: white;}
+
+#stepsLabel {
+  font-size: 18;
+  font-family: System-Bold;
+  text-length: 10;
+  text-anchor: start;
+  x: 43%;
+  y: 82%;
+  fill: white;}
+
+#caloriesLabel {
+  font-size: 18;
+  font-family: System-Bold;
+  text-length: 10;
+  text-anchor: start;
+  x: 75%;
+  y: 82%;
+  fill: white;}
+
+
+#batteryLabel {
+ font-size: 16;
+  font-family: System-Bold;
+  text-length: 4;
+  text-anchor: start;
+  x: 3%;
+  y: 7%;
+  fill: 	#c80f2e; 
+}
+
+#date{
+  font-size: 22;
+  font-family: Tungsten-Medium;
+  text-length: 32;
+  text-anchor: end;
+  x: 96%;
+  y: 8%;
+  fill: white;
+}
+
+
+#YNWA {
+  font-size: 15;
+  font-family: SevilleSharp-Regular;
+  text-length: 32;
+  text-anchor: Start;
+  x: 25%;
+  y: 97%;
+  fill: white;
+}
